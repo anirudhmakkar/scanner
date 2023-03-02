@@ -19,9 +19,9 @@ echo -e '\e[38;5;208mAutomated with <3 by Anirudh Makkar (@AnirudhMakkar)\e[0m';
 
 logo
 
-
-
 # echo 'Run this in Domain Name Directory'
+
+
 
 echo ''
 
